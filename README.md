@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,8 +28,21 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0075-sort-colors) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
