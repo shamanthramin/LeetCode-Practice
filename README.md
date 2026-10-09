@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/shamanthramin/LeetCode-Practice/tree/master/0283-move-zeroes) |
 ## Trie
 |  |
 | ------- |
